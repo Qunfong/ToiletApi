@@ -1,0 +1,14 @@
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\bin\Debug\netcoreapp2.2\ToiletApi.deps.json
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\bin\Debug\netcoreapp2.2\ToiletApi.runtimeconfig.json
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\bin\Debug\netcoreapp2.2\ToiletApi.runtimeconfig.dev.json
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\bin\Debug\netcoreapp2.2\ToiletApi.dll
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\bin\Debug\netcoreapp2.2\ToiletApi.pdb
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.csprojAssemblyReference.cache
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.csproj.CoreCompileInputs.cache
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.RazorAssemblyInfo.cache
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.RazorAssemblyInfo.cs
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.AssemblyInfoInputs.cache
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.AssemblyInfo.cs
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.RazorTargetAssemblyInfo.cache
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.dll
+C:\Users\Qun\source\repos\ToiletApi\ToiletApi\obj\Debug\netcoreapp2.2\ToiletApi.pdb

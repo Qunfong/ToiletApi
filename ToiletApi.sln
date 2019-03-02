@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToiletApi", "ToiletApi\ToiletApi.csproj", "{575C260E-705B-4FFE-B74E-67DEA35E56F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575C260E-705B-4FFE-B74E-67DEA35E56F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575C260E-705B-4FFE-B74E-67DEA35E56F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{575C260E-705B-4FFE-B74E-67DEA35E56F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{575C260E-705B-4FFE-B74E-67DEA35E56F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC0A8C2-119D-476E-91F1-44DA73E39949}
+	EndGlobalSection
+EndGlobal
